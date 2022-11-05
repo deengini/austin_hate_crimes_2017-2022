@@ -2,6 +2,6 @@ This portfolio project is titled: hate_crime_austin_2017-2022 and it analyzes ha
 
 The Excel file titled: austin_hate_crimes_2017-2022_cleaned contains a combined and cleaned version of the raw dataset mostly using conditional formatting and IF statments. 
 
-The SQL file titled: austin_hate_crime_queries contains all the queries that were used in obtaining and analyzing our cleaned data in Microsoft SQL Server. 
+The SQL file titled: austin_hate_crimes_queries contains all the queries that were used in obtaining and analyzing our cleaned data in Microsoft SQL Server. 
 
 The Tableau file titled: austin_hate_crimes_2017-2022_dashboard is the visualization of result of our SQL queries. It can also be found at this link here: https://public.tableau.com/app/profile/chidubem.ngini/viz/Austin_Hate_Crimes_2017-2022/Dashboard1?publish=yes 
